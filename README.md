@@ -1,3 +1,4 @@
+![image alt](https://github.com/nikhil-ai-insights/business-lead-generation-ai/blob/b724c569a0e2f9ee523369ee57c896667a3b162e/asset.png)
 # 🚀 Business Lead Generation AI
 
 > An automated AI-powered workflow that generates high-quality local business leads using Google Maps scraping, data filtering, and structured storage.
